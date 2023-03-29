@@ -1,0 +1,15 @@
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.csproj.AssemblyReference.cache
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.AssemblyInfoInputs.cache
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.AssemblyInfo.cs
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.csproj.CoreCompileInputs.cache
+C:\личное\project-soft\FlexTree\bin\Debug\net7.0\FlexTree.exe
+C:\личное\project-soft\FlexTree\bin\Debug\net7.0\FlexTree.deps.json
+C:\личное\project-soft\FlexTree\bin\Debug\net7.0\FlexTree.runtimeconfig.json
+C:\личное\project-soft\FlexTree\bin\Debug\net7.0\FlexTree.dll
+C:\личное\project-soft\FlexTree\bin\Debug\net7.0\FlexTree.pdb
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.dll
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\refint\FlexTree.dll
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.pdb
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\FlexTree.genruntimeconfig.cache
+C:\личное\project-soft\FlexTree\obj\Debug\net7.0\ref\FlexTree.dll
